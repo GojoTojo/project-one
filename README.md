@@ -1,2 +1,4 @@
 # projects
-Hello everyone, here i post my projects.
+Hello everyone, This is my first project on Wine Quality prediction using support vector machine.
+In this project dataset is uesd from YBI Foundation DataSet.
+In this project basically two libraries of python is used i.e. Pandas and NumPy.
